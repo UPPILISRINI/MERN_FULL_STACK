@@ -1,0 +1,16 @@
+.content{
+    color: blue;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    text-align: center;
+    background-color: white;
+}
+
+.bgimg{
+    background-image: url('https://ik.imagekit.io/Uppilisrinivasan/FULL%20STACK%20MERN%20TRAINING%20COURSE/images/bird-thumbnail.jpg?updatedAt=1718636905477');
+    height: 1000px;
+    width: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
