@@ -1,0 +1,64 @@
+HTML
+1.WHAT IS HTML 
+ans : A container which is to structure the website and to put contents
+
+2.WHY HTML IS USED
+ans : To put contents
+
+3.What is Emmet & List 5 Emmet 
+Emmet is a shortcut ,free plugin to write the srtucture of html,css and other code formats as faster
+
+4.SHORT CUT CREATE of Emmet Boiler plate of HTML
+ans : html : 5
+
+5.WHAT STRUCTURE OF HTML
+ans : made up of haed and body
+
+6.WHAT IS HEAD TAG
+ans : Defines the head section of the website which contains metadata
+
+7.WHAT IS BODY TAG 
+ans : Defines the main contents of the website of a webpage,including text,images,paragraph,buttons
+
+8.IMPORTANT 3 ELEMENTS OR TAGS
+ans : heading tag<h1> ... <h6> , paragraph tag<P>,button tag<button>
+
+9.WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
+ans : tags defined with the starting and ending parts
+      Elements are just a character or word which is used for tags
+
+CSS
+1.WHAT IS CSS
+ans : Cascading Style Sheet which is computer language
+
+2.WHY IS CSS?
+ans : CSS styles html contents such as font family,font size ,colour ,backgrounds ,borders , etc ,..
+
+3.HOW TO CONNECT HTML & CSS , Tell the emmet Shortcut
+ans : using LINK : CSS emmet we can connect the HTML and CSS files
+
+4.HOW TO GET FONT & COLOR , IMAGE, CDN
+ans : For,
+ FONTS : Google fonts->select font -> get embedded code -> copy either link or import code and paste it in above linking css line or Top of the CSS file respectively
+ COLOR : use color picker to get the hexa code of the color
+ IMAGE : use imagekit which is cloud platform.Here you can the put picture,videos,audios,etc,
+ in CDN way.
+
+5.BASIC CSS FAMILY : Text Family, Color & Background Family, Box Model 
+ans : Text family : serif,poppins,roboto
+      color : white,black,grey,maroon,green,yellow
+
+6.WHEN TO USE BACKGROUND IMG VS IMG TAG
+ans : if you want to put contents beside,below or top of the image,you have to use <img/> tag
+      if you want to put contents on the image ,you have to use <background-image> tag
+
+7.WHAT IS LAYOUT & Explain About flexbox Properties
+ans : Layout is used to design,arrage or laid out which something are already structured
+flex properties
+flex-row to move row wise
+flex-col to move column wise
+	1.justify is to move along the main axis
+	2.items is to move along the cross axis
+
+8.WHAT IS TAILWIND CSS & WHY IS IT USED
+ans : Tailwind is a framework of css which is more like Bootstrap.It is used to style the HTML contents in more easier and faster way
